@@ -1,0 +1,44 @@
+Beginner
+-----
+Quick Finish
+1
+                                          F
+   P                  MCCCCC MCCCCC MCCCCC
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGWGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGWGGGGGGGGGGGGGGGGG
+-----
+Easy Jump
+2
+                              CCMCC
+                             C     C
+                            C       C      F
+   P                  MCCCCC         CCCCCM
+GGGGGGGGGGGGGGGGGGGGGGGGGGGG         GGGGGGWGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGWGGGGGGGGGGGGGGGGG
+-----
+Holey Jump
+3
+                              CCMCC
+                             C     C
+                            C       C      F
+   P                  MCCCCC         CCCCCM
+GGGGGGGGGGGGGGGGGGGGGGGGGGGG         GGGGGGWGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGG         GGGGGGWGGGGGGGGGGGGGGGGG
+-----
+Red Wall
+4
+                              CCMCC
+                             C  R  C
+                            C  RRR  C      F
+   P                  MCCCCC RRRRRRR CCCCCM
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGWGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGWGGGGGGGGGGGGGGGGG
+-----
+Yellow Wall
+5
+                              CCMCC
+                             C     C             F
+                            C  YYY  CCCCCM CCCCCM
+   P                  MCCCCC YYYYYYYYYYYYYYYYYYYYWGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGWGGGGGGGGGGGGGGGGG
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGWGGGGGGGGGGGGGGGGG
